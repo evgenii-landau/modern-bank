@@ -1,8 +1,28 @@
-# React + Vite
+## Modern Bank Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Этот проект представляет собой веб-сайт Modern Bank, разработанный с использованием React, Tailwind CSS и Vite для быстрой сборки и разработки.
 
-Currently, two official plugins are available:
+## Описание
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Modern Bank Website - это веб-сайт современного банка, предоставляющий информацию о финансовых услугах, продуктах и акциях. На данном проекте практиковался Tailwind CSS.
+
+
+## Как использовать
+
+1. Установите зависимости:
+yarn
+
+2. Запустите приложение в режиме разработки:
+yarn dev
+
+3. Сборка приложения для развертывания:
+yarn build
+
+## Технологии
+
+- React
+- Tailwind CSS
+- Vite
+
+## Автор
+evgenii-landau
